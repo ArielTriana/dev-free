@@ -12,7 +12,8 @@ Dev free is a set of scripts to manage dependencies and packages of some program
 
 Dev free supports the installation of packages of the following programming languages:
 
-- Python with pip
+- [Python](./python/)
+    - [PIP](./python/pip-free.py)
 
 In the near future, we will add scripts to support:
 
