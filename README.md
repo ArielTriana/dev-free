@@ -4,7 +4,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
+    - [Installing](#installing)
+- [Contributing](#contributing)
 
 ## About <a name = "about"></a>
 
@@ -30,4 +31,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 Once the code is downloaded you need to install a set of dependencies to run some scripts. Go to the folder of the programming language you want and install the dependencies that are in the requirements.txt
+
+## Contributing
+
+Feel free to contribute new scripts, fix bugs, or add new sites to existing scripts.
 
