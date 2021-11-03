@@ -34,5 +34,5 @@ Once the code is downloaded you need to install a set of dependencies to run som
 
 ## Contributing
 
-Feel free to contribute new scripts, fix bugs, or add new sites to existing scripts.
+Feel free to contribute new scripts, fix bugs, or add new sites to existing scripts. To contribute fork a repository and do a pull request.
 
